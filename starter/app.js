@@ -98,3 +98,12 @@ function init() {
 }
 
 // state var tells condition of a system, aka the state of something
+
+/* Coding Challenges:
+Change the game to follow these rules
+
+1. A player loses ENTIRE score if rolls two 6's in a row. After that, it's the next player's
+turn. (Hint: Always save the previous dice roll in a seperate variable)
+
+
+*/
